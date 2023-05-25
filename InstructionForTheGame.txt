@@ -1,0 +1,7 @@
+To run the code, you need to have the Pygame library installed.
+You can install Pygame using pip, the package installer for Python. Open a terminal or command prompt and run the following command:
+
+-pip install pygame
+
+This will download and install the Pygame library on your system.
+Once the installation is complete, you can run the Python code that tracks the user's mouse and calculates the perfection of the drawn circle.
